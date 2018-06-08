@@ -2,5 +2,6 @@
     <string name="app_name">VipTaxi</string>
     <string name="logo">logo</string>
     <string name="taxi">Bestill Taxi</string>
+    <string name="picturesplash">picture that goes 260 degrees</string>
 
 </resources>
